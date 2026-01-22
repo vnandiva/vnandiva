@@ -2,15 +2,20 @@
 
 <!--
 **vnandiva/vnandiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vedanth! 👋
 
-Here are some ideas to get you started:
+I'm a student at the University of Notre Dame studying Applied Math,Actuarial, and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🎓 Currently taking Introduction to Data Science
+- 🌱 Learning Python, pandas, and data visualization
+- 📫 How to reach me: vnandiva@nd.edu
+
+## Interests
+- Playing the piano
+- Liverpool FC
+- Lifting 
+- Nutrition
+- College football
+- R&B
+- Cooking
