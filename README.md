@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**vnandiva/vnandiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi, I'm Vedanth! 👋
+## Hi, I'm Vedanth! 👋
 
 I'm a student at the University of Notre Dame studying Applied Math,Actuarial, and Data Science.
 
@@ -19,3 +15,7 @@ I'm a student at the University of Notre Dame studying Applied Math,Actuarial, a
 - College football
 - R&B
 - Cooking
+
+
+<!--
+**vnandiva/vnandiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
