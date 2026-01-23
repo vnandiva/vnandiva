@@ -18,7 +18,7 @@ I'm a student at the University of Notre Dame studying Applied Math, Actuarial, 
 - R&B
 - Cooking
 
-- ## Skills
+ ## Skills
 - Python
 - JavaScript
 - R
