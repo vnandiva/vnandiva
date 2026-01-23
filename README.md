@@ -32,5 +32,11 @@ I am a junior at the University of Notre Dame pursuing Applied Mathematics with 
 ## Projects
 - Data Science Portfolio : https://github.com/vnandiva/Nandivada-Data-Science-Portfolio
 
+## Publications
+- Common Errors in Interpretation of Correlation, Causation, and Association in Research : https://cdn.azimpremjiuniversity.edu.in/media/publications/downloads/At-Right-Angles-Issue-16-July-2023_ONLINE_Low-Res.pdf
+- Socio-economic factor impact on malnutrition in South Indian government school children : https://emerginginvestigators.org/articles/22-247
+- Socio-economic and awareness correlates of physical activity of government school children in India : https://emerginginvestigators.org/articles/22-064
+- Simplifying difficult problems using Dimensional Analysis : https://www.parabola.unsw.edu.au/issues/2020-present/year-2022-volume-58
+
 
 <!--**vnandiva/vnandiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
