@@ -29,4 +29,8 @@ I am a junior at the University of Notre Dame pursuing Applied Mathematics with 
 - **Tools & Platforms:** Git/GitHub, Jupyter Notebook, Excel, Spyder
 - **Statistical Methods:** Exploratory Data Analysis (EDA), Regression Analysis, Classification, Predictive Modeling, Neural Networks
 
+## Projects
+- Data Science Portfolio : https://github.com/vnandiva/Nandivada-Data-Science-Portfolio
+
+
 <!--**vnandiva/vnandiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
