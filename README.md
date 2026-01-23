@@ -38,5 +38,12 @@ I am a junior at the University of Notre Dame pursuing Applied Mathematics with 
 - Socio-economic and awareness correlates of physical activity of government school children in India : https://emerginginvestigators.org/articles/22-064
 - Simplifying difficult problems using Dimensional Analysis : https://www.parabola.unsw.edu.au/issues/2020-present/year-2022-volume-58
 
+## Certifications 
+
+- **Programming for Everybody (Getting Started with Python)** : https://coursera.org/share/944af8c768186d9b6a62f0a646870a1b
+- **Using Python to access Web Data** : https://coursera.org/share/bfbaa5480e80a5ba4ac14820c6c0e7c6
+- **Python Data Structures** : https://coursera.org/share/4e68ff1b6516143d442a2f28b250b8ef
+- **Using Databases with Python** : https://coursera.org/share/072bce1a926478011ce461ab5ac1e72b
+- **Capstone: Retrieving, Processing, and Visualizing Data with Python** : https://coursera.org/share/a69a17a610d72494c7f16b5801b19872
 
 <!--**vnandiva/vnandiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
