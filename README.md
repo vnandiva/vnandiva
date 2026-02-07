@@ -1,4 +1,6 @@
-## Hi, I'm Vedanth! 👋
+## Hi, I'm Vedanth! 👋 👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vnandiva&show_icons=true&theme=radical)
 
 ## About Me
 
