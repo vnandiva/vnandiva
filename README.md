@@ -32,8 +32,6 @@ I am a junior at the University of Notre Dame pursuing Applied Mathematics with 
 - **Statistical Methods:** Exploratory Data Analysis (EDA), Regression Analysis, Classification, Predictive Modeling, Neural Networks
 
 ## Projects
-- Data Science Portfolio : https://github.com/vnandiva/Nandivada-Data-Science-Portfolio
-
 - ### Data Science Portfolio: [Nandivada-Data-Science-Portfolio](https://github.com/vnandiva/Nandivada-Data-Science-Portfolio)
 
 | # | Project | Description | Tech |
