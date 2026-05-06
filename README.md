@@ -34,6 +34,15 @@ I am a junior at the University of Notre Dame pursuing Applied Mathematics with 
 ## Projects
 - Data Science Portfolio : https://github.com/vnandiva/Nandivada-Data-Science-Portfolio
 
+- ### Data Science Portfolio: [Nandivada-Data-Science-Portfolio](https://github.com/vnandiva/Nandivada-Data-Science-Portfolio)
+
+| # | Project | Description | Tech |
+|---|---|---|---|
+| 1 | [Streamlit Data Explorer](https://github.com/vnandiva/Nandivada-Data-Science-Portfolio/tree/main/basic_streamlit_app) | Upload any CSV and explore it interactively — filters, stats, charts | Python, Streamlit, Pandas |
+| 2 | [Federal R&D Tidy Data](https://github.com/vnandiva/Nandivada-Data-Science-Portfolio/tree/main/TidyData-Project) | Tidy U.S. Federal R&D spending data (1976–2017) with wrangling and EDA | Python, Pandas, Seaborn |
+| 3 | [ML Explorer (Supervised)](https://github.com/vnandiva/Nandivada-Data-Science-Portfolio/tree/main/MLStreamlitAPP) | Interactive supervised ML app — KNN, Logistic Regression, Random Forest | Python, Streamlit, scikit-learn |
+| 4 | [Unsupervised Learning Explorer](https://github.com/vnandiva/Nandivada-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) | K-Means, Hierarchical Clustering, PCA, PCA+K-Means — with elbow plots, dendrograms, silhouette scores | Python, Streamlit, scikit-learn, scipy, Plotly |
+
 ## Publications
 - Common Errors in Interpretation of Correlation, Causation, and Association in Research : https://cdn.azimpremjiuniversity.edu.in/media/publications/downloads/At-Right-Angles-Issue-16-July-2023_ONLINE_Low-Res.pdf
 - Socio-economic factor impact on malnutrition in South Indian government school children : https://emerginginvestigators.org/articles/22-247
