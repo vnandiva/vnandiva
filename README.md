@@ -8,7 +8,7 @@ I am a junior at the University of Notre Dame pursuing Applied Mathematics with 
 
 ## Quick Facts
 
-- 🎓 Currently taking Introduction to Data Science
+- 🎓 Completed Introduction to Data Science - built 4 end-to-end ML projects: EDA, supervised ML, unsupervised ML, Streamlit deployment
 - 📫 How to reach me: vnandiva@nd.edu, Linkedin : www.linkedin.com/in/vedanth-nandivada-4010121bb
 - 🥅 Goals for 2026: I want to apply my knowledge in new domains and industries
 - ⚡ Fun fact: I was born in the US, grew up in India, and went to a British School for 9 years
